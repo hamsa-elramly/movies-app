@@ -1,6 +1,6 @@
-# Simple Movies Library App 🍿
+# Simple Movie Library App 🍿
 
-Simple React+Typescript weather app using TMDB API
+Simple React+Typescript movie library app using TMDB API
 
 ## Instructions
 
