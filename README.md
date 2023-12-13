@@ -1,4 +1,4 @@
-# Simple Movies Library App🌤🌤
+# Simple Movies Library App 🍿
 
 Simple React+Typescript weather app using TMDB API
 
